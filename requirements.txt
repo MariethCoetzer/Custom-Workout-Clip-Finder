@@ -1,2 +1,2 @@
-pip install streamlit twelvelabs 
-pip>=25.2
+streamlit
+twelvelabs 
