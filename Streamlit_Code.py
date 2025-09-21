@@ -60,7 +60,7 @@ st.markdown("""
 # =========================
 # TITLE
 # =========================
-st.markdown('<h1 style="color:#1C77C3; text-align:center;">Custom Workout Video Builder</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="color:#1C77C3; text-align:center;">Custom Workout Clip Finder</h1>', unsafe_allow_html=True)
 
 
 
@@ -260,6 +260,7 @@ if submit_button:
         """,
         height=500,
     )
+
 
 
 
