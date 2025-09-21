@@ -1,2 +1,2 @@
-# Custom-Workout-Video-Builder
-For RiceHack2025
+# Custom-Workout-Clip-Finder
+Team submission for RiceHack2025
