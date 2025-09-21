@@ -75,7 +75,7 @@ workout_options = ['None', 'core', 'glutes', 'weights', 'bodyweight only', 'preg
 avoid_options = ['None', 'standing', 'applying pressure to wrists', 'jumping']
 
 
-st.markdown("**Choose what you'd like your workout to have and what you'd like to avoid, and we will select the perfect workout video clips to match your specifications!**")
+st.markdown("**Choose what you'd like your workout to have and what you'd like to avoid, and we will show you the perfect workout video clips to match your specifications!**")
 
 # Create the form
 with st.form(key='workout_form'):
@@ -260,6 +260,7 @@ if submit_button:
         """,
         height=500,
     )
+
 
 
 
