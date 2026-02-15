@@ -114,7 +114,7 @@ with st.form(key='workout_form'):
 involve = ' '.join(s for s in [involve1, involve2, involve3] if s)
 avoid = ' '.join(s for s in [avoid1, avoid2] if s)
 
-client = TwelveLabs(api_key="tlk_0R4RVJ32PB8GQK2AS38HS061C93Q")
+client = TwelveLabs(api_key="tlk_3XEHTWJ1VP4K8Z2SED1XX3WZVPA6")
 client_index_id = "68cf29735705aa622334a87f"
 
 
@@ -260,6 +260,7 @@ if submit_button:
         """,
         height=500,
     )
+
 
 
 
